@@ -1,16 +1,17 @@
-## Hi there 👋
+## Jyotheeshwar Akshay Ravikumar
 
-<!--
-**jyotheeshwarakshay-ux/jyotheeshwarakshay-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pharm.D. (final year) → PhD-track in Quantitative Systems Pharmacology / Pharmacometrics**
 
-Here are some ideas to get you started:
+I build mechanistic PK/PD and QSP models — target-mediated drug disposition (TMDD),
+QSS approximations, identifiability analysis, and virtual-population simulation — in R.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔬 **Focus:** QSP, TMDD/QSSA, PBPK, model identifiability, NLME
+- 🛠 **Stack:** R · rxode2 · nlmixr2 · mrgsolve
+- 🧬 **Interest:** bridging clinical pharmacology with quantitative model-informed drug development (MIDD)
+- 📫 **Reach me:** https://www.linkedin.com/in/jyotheeshwar-akshay/ · jyotheeshwarakshay@gmail.com
+
+### Selected work
+- **denosumab-tmdd-qss** — QSS-approximation TMDD parameter-recovery study; reproduced a
+  published identifiability limitation via profile-likelihood analysis
+- **tmdd-approximations** — comparison of full TMDD vs QSS vs Michaelis–Menten approximations
+- **Theophylline-popPK** — population PK reproduction in nlmixr2
