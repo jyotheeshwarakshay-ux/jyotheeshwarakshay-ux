@@ -11,6 +11,7 @@ QSS approximations, identifiability analysis, and virtual-population simulation 
 - 📫 **Reach me:** https://www.linkedin.com/in/jyotheeshwar-akshay/ · jyotheeshwarakshay@gmail.com
 
 ### Selected work
+- **rankl-opg-qsp** — virtual-population QSP model of denosumab on bone remodeling (Lemaire RANK–RANKL–OPG); response variability decomposed into PK vs bone-physiology sources
 - **denosumab-tmdd-qss** — QSS-approximation TMDD parameter-recovery study; reproduced a
   published identifiability limitation via profile-likelihood analysis
 - **tmdd-approximations** — comparison of full TMDD vs QSS vs Michaelis–Menten approximations
