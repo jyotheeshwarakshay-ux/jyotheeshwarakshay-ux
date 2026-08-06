@@ -16,3 +16,4 @@ QSS approximations, identifiability analysis, and virtual-population simulation 
   published identifiability limitation via profile-likelihood analysis
 - **tmdd-approximations** — comparison of full TMDD vs QSS vs Michaelis–Menten approximations
 - **Theophylline-popPK** — population PK reproduction in nlmixr2
+- **denosumab-mpbpk** — 15-tissue platform antibody PBPK model (Shah & Betts) reproduced from source and applied to denosumab bone-tissue exposure; validated against the published bone ABC benchmark, with a staged investigation of the residual gap
